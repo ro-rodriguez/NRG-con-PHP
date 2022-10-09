@@ -1,0 +1,11 @@
+
+- Alumna: Elsa Rocío Rodríguez Castro.
+- Carrera: Diseño y Programación Web.
+- Materia: Programacion 2.
+- Cuatrimestre: 3ro.
+- Año: 2do
+- Turno: Tarde.
+- Comisión: DWT3A,
+- Docente: Santiago Gallino.
+- Carácter de entrega: 1er parcial.
+

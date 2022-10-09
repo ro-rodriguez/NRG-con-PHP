@@ -1,0 +1,53 @@
+[
+    {
+    "titulo_identificacion": "volumen",
+    "titulo": "Combo Ganar Volumen",
+    "titulo_imagen": "Whey Protein + Creatine + Carbohidrato",
+    "imagen": "combo1.jpg",
+    "imagen_descripcion": "Combo para aumentar volumen, fuerza y masa muscular",
+    "beneficio":
+        {
+            "1": "Aumenta la síntesis de la proteína muscular.",
+            "2": "Acelera los procesos de recuperación post ejercicio.",
+            "3": "Ayuda al aumento de masa muscular.",
+            "4": "Aumento de fuerza y potencia.",
+            "5": "Aumenta el anabolismo muscular.",
+            "6": "Mejor rendimiento y mayor resistencia.",
+            "7": "Contribuye a conciliar el sueño reparador."
+        }
+    },
+    {
+    "titulo_identificacion": "resistencia",
+    "titulo": "Combo Más Resistencia",
+    "titulo_imagen": "Whey Protein + Amino Energy",
+    "imagen": "combo2.jpg",
+    "imagen_descripcion": "Combo para aumentar energía y vitalidad",
+    "beneficios":
+        {
+            "1": "Mejora los niveles de energía.",
+            "2": "Previene las lesiones.",
+            "3": "Mayor rendimiento deportivo.",
+            "4": "Acelera la recuperación muscular después del ejercicio.",
+            "5": "Ralentiza la disminución de la potencia muscular en deportes de altitud.",
+            "6": "Mejora la permeabilidad muscular.",
+            "7": "Asimilación rápida."
+        }
+    },
+    {
+    "titulo_identificacion": "nutricion",
+    "titulo": "Combo Mejorar Nutrición",
+    "titulo_imagen": "Multivitamin + Calcio + Colageno",
+    "imagen": "combo3.jpg",
+    "imagen_descripcion": "Combo nutricional con vitaminas, minerales, calcio y colageno",
+    "beneficios":
+        {
+            "1": "Compensa las necesidades diarias de nutrientes.",
+            "2": "Buena fuente de minerales y antioxidantes.",
+            "3": "Apoya el metabolismo energetico.",
+            "4": "Ayuda al funcionamiento normal del sistema inmunitario.",
+            "5": "Provee acción antioxidante.",
+            "6": "Ayuda a reducir el cansancio y la fatiga.",
+            "7": "Reduce el riesgo de osteoporosis."
+        }
+    } 
+]

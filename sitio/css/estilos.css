@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #eeeeee;
+}
+.fondo1 {
+    background-color: black;
+}
+.fondo2 {
+    background-color: #1660a7;
+}
+.boton-asesorar {
+    background-color: #ceff29;
+}
+.boton-gris {
+    background-color: #bfbfc1;
+}
+.micolor {
+    color: #1660a7;
+}
+.micolor2 {
+    color: #ceff29;
+}
+.micolor3 {
+    color:#790d0d;
+}
+label{
+    color: #1660a7;
+}
+header {
+    position: relative;
+}
+.borde-container {
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 2px;
+}
+#logo {
+    position: absolute;
+    width: 8rem;
+    height: 3rem;
+    background-image: url("../recursos/logo.svg");
+    font-size: 0;
+    top: 0.9rem;
+    left: 1.7rem;
+}
+.logo-footer a img {
+    width: 8rem;
+    height: 3rem;
+}
+.carousel .carousel-item {
+    transition-property: transform;
+    transition-duration: 8s;
+}
+.leer-mas-state {
+    display: none;
+} 
+.leer-mas-target {
+    display: inline;
+    opacity: 0;
+    max-height: 0;
+    font-size: 0;
+    transition: .25s ease;
+}
+.leer-mas-trigger {
+    cursor: pointer;
+    background-color: #bfbfc1;
+    padding: 0 0.5em;
+    font-family: 'Open Sans';
+}
+.leer-mas-state:checked~.leer-mas-wrap .leer-mas-target {
+    opacity: 1;
+    font-size: inherit;
+    max-height: 999em;
+}  
+.leer-mas-state~.leer-mas-trigger:before {
+    content: 'Ver más';
+} 
+.leer-mas-state:checked~.leer-mas-trigger:before {
+    content: 'Ver menos';
+}
+.list, .list-quiz {
+    list-style: none;
+}
+.mapa {
+    max-width: 600px;
+}
+.fig-mapa {
+    line-height: 0;
+}
+.asesorar {
+    background: url("../imagenes/consulta.png")center center;
+    background-repeat: no-repeat;
+    width: 10em;
+    height: 10em;
+    border-radius: 50%;
+}
+i {
+    font-size: 50px;
+    color: #1660a7;
+}
+.fab {
+    font-size: 40px;
+}
+a {
+    text-decoration: none;
+}
+#galeria {
+    margin-top: 70px;
+}
+#nosotros, #productos, #testimonios, #contacto, #asesoramiento {
+    position: relative;
+    top: -85px;
+}
+#volumen, #resistencia, #nutricion {
+    position: relative;
+    top: -70px;
+}
+.fondo-gracias {
+    background-image: url("../imagenes/fondo.jpg");
+    background-attachment: fixed;
+	background-repeat: repeat;
+    margin: 0px;
+}
+.p-movible {
+    animation-duration: 3s;
+    animation-name: slidein;
+}
+
+.linea-separadora1 {
+    border-bottom: solid 5px black;
+}
+.certificado {
+    background: url("../imagenes/certificado.png")center center;
+    background-repeat: no-repeat;
+    width: 4.5em;
+    height: 4.5em;
+}
+.gluten-free {
+    background: url("../imagenes/gluten-free.png")center center;
+    background-repeat: no-repeat;
+    width: 4.5em;
+    height: 4.5em;
+}
+.grasas-trans {
+    background: url("../imagenes/grasas-trans.png")center center;
+    background-repeat: no-repeat;
+    width: 4.5em;
+    height: 4.5em;
+}
+.main-footer{
+    bottom: 0;
+}
+
+.button {
+    width: 100%;
+}
+
+@keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%
+    }
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+}
+@media screen and (max-width: 991px) {
+    #logo{
+        left: calc(50% - 4rem);
+    }
+}

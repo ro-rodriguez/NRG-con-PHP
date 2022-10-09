@@ -1,0 +1,38 @@
+[
+    {
+    "nombre": "Luis Carrillo",
+    "imagen": "luiscarrillo.jpg",
+    "imagen_descripcion": "foto de Luis Carrillo, persona que nos cuenta su experiencia con los productos NRG",
+    "texto": "Hace más de 10 años que tomo los suplementos NRG, he tenido resultados satisfactorios en cuanto energia y rendimiento, y me siento fenomenal",
+    "localidad": "Tigre",
+    "provincia": "Buenos Aires",
+    "profesion": "Contador"
+    },
+    {
+    "nombre": "Tatiana Gimenez",
+    "imagen": "tatianagimenez.jpg",
+    "imagen_descripcion": "foto de Tatiana Gimenez, persona que nos cuenta su experiencia con los productos NRG",
+    "texto": "Me gusta mucho hacer deporte en el gimnasio y antes me costaba recuperarme del entrenamiento, ahora que tomo NRG como recuperador después del ejercicio he mejorado mis resultados y he definido musculatura",
+    "localidad": "Avellaneda",
+    "provincia": "Buenos Aires",
+    "profesion": "Vendedora"
+    },
+    {
+    "nombre": "Fernando Vasquez",
+    "imagen": "fernandovasquez.jpg",
+    "imagen_descripcion": "foto de Fernando Vasquez, persona que nos cuenta su experiencia con los productos NRG",
+    "texto": "La nutrición NRG me da la confianza de conseguir mi mejor versión. Siempre siento que puedo dar más en mis entrenamientos",
+    "localidad": "Tandil",
+    "provincia": "Buenos Aires",
+    "profesion": "Empresario"
+    },
+    {
+    "nombre": "Luciano Mauri",
+    "imagen": "lucianomauri.jpg",
+    "imagen_descripcion": "foto de Luciano Mauri, persona que nos cuenta su experiencia con los productos NRG",
+    "texto": "Soy ciclista hace mas de 10 años y desde que tomó NRG he logrado excelentes resultados en competencias, los suplementos nutricionales juegan un papel importante en la vida de un deportista",
+    "localidad": "CABA",
+    "provincia": "Buenos Aires",
+    "profesion": "Ciclista"
+    }
+]

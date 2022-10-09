@@ -1,0 +1,149 @@
+[
+    {
+    "producto_id": 1,
+    "imagen": "prod1.jpg",
+    "imagen_descripcion": "Whey Protein, suplemento proteico para el incremento de la masa muscular",
+    "titulo": "Whey Protein",
+    "peso": "2 kg",
+    "texto": "Es un suplemento elaborado a base de mejor proteína de suero lácteo. Producto apto para celíacos con certificación Sin Tacc. Es ideal para todos aquellos que requieren de un aporte extra de proteínas en su dieta habitual. Su excelente aporte de aminoácidos favorece el desarrollo de masa muscular y también mejora la capacidad de recuperación de los músculos luego del entrenamiento.",
+    "precio": 2990,
+    "sabor": 
+        {
+            "1": "Chocolate",
+            "2": "Vainilla",
+            "3": "Frutilla"
+        },
+    "porcion": 40,
+    "porciones_envase": 50,
+    "valor_energetico": 138,
+    "carbohidratos": 4,
+    "proteinas": 29,
+    "grasas_totales": 1,
+    "grasas_saturadas": 0,
+    "grasas_trans": 0,
+    "fibra": 1,
+    "sodio": 182
+    },
+    {
+    "producto_id": 2,
+    "imagen": "prod2.jpg",
+    "imagen_descripcion": "Vegan Protein, el suplemento proteico ideal para veganos",
+    "titulo": "Vegan Protein",
+    "peso": "1 kg",
+    "texto": "Es un suplemento elaborado a base de proteína de soja, con excelente sabor a almendras y libre de gluten (Sin Tacc). Es una proteína isolada de rápida absorción y cada scoop aporta 34 gramos de proteína. Podés prepararlo con leche de soja, de almendras o la que más te guste. NRG certifica que este producto está elaborado con granos de soja no modificados genéticamente.", 
+    "precio": 3290,
+    "sabor":
+        {
+            "1": "Chocolate",
+            "sabor": "Almendras"
+        },
+    "porcion": 40,
+    "porciones_envase": 25,
+    "valor_energetico": 136,
+    "carbohidratos": 4,
+    "proteinas": 26,
+    "grasas_totales": 1,
+    "grasas_saturadas": 0,
+    "grasas_trans": 0,
+    "fibra": 1,
+    "sodio": 175    
+    },
+    {
+    "producto_id": 3,
+    "imagen": "prod3.jpg",
+    "imagen_descripcion": "Animo Energy, el suplemento a base de aminoácidos para el incremento de la masa muscular",
+    "titulo": "Amino Energy",
+    "peso": "270 gr",
+    "texto": "Es un suplemento a base de aminoácidos, libre de gluten (sin tacc). Es un producto ideal para todas aquellas personas que buscan seguir una dieta sana, de control/pérdida de peso o para deportistas que requieren de un aporte extra de proteínas. Los aminoácidos contribuyen al desarrollo de la masa muscular, generan fuerza y energía, ideal para suplementar entrenamientos intensos.",
+    "precio": 2590,
+    "sabor":
+        {
+            "1": "Vainilla",
+            "2": "Chocolate",
+            "3": "Frutilla"
+        },
+    "porcion": 5,
+    "porciones_envase": 60,
+    "valor_energetico": 20,
+    "carbohidratos": 0,
+    "proteinas": 0,
+    "grasas_totales": 0,
+    "grasas_saturadas": 0,
+    "grasas_trans": 0,
+    "fibra": 0,
+    "sodio": 0   
+    },
+    {
+    "producto_id": 4,
+    "imagen": "prod4.jpg",
+    "imagen_descripcion": "Suplemento dietario Creatine a base de creatina para el aumento de la intensidad y fuerza",
+    "titulo": "Creatine",
+    "peso": "300 gr",
+    "texto": "Es un suplemento dietario a base de Creatina 100% pura que provee energía para ejercicios de alta intensidad y contribuye al crecimiento de la masa muscular. Apto para celíacos (sin tacc).La Creatina se almacena en el músculo como fosfocreatina, sirve como un aporte instantáneo de energía para ejercicios de alta intensidad y breve duración, retarda la formación de ácido láctico.",
+    "precio": 2990,
+    "sabor":
+        {
+            "1": "Neutro",
+            "2": "Citrico"
+        },
+    "porcion": 5,
+    "porciones_envase": 60,
+    "valor_energetico": 20,
+    "carbohidratos": 0,
+    "proteinas": 0,
+    "grasas_totales": 0,
+    "grasas_saturadas": 0,
+    "grasas_trans": 0,
+    "fibra": 0,
+    "sodio": 0   
+    },
+    {
+    "producto_id": 5,
+    "imagen": "prod5.jpg",
+    "imagen_descripcion": "Multivitamin suplemento vitaminico a base de vitaminas, minerales y ginseng, ideal para reforzar el sistema inmunologico",
+    "titulo": "Multivitamin",
+    "peso": "180 gr (60 comprimidos)",
+    "texto": "Suplemento dietario a base de vitaminas, minerales y ginseng. Libre de gluten (sin tacc). Fórmula ideada para proveer una combinación equilibrada de Vitaminas lipo e hidrosolubles y Minerales con Ginseng. Contiene vitamina A, complejo vitamínico B, ácido fólico, vitamina C, vitamina E y minerales como el magnesio, calcio, zinc y Ginseng.",  
+    "precio": 1290,
+    "sabor":
+        {
+            "1": "Neutro",
+            "2": "Frutilla"  
+        },
+    "porcion": 1,
+    "porciones_envase": 60,
+    "valor_energetico": 0,
+    "carbohidratos": 0,
+    "proteinas": 0,
+    "grasas_totales": 0,
+    "grasas_saturadas": 0,
+    "grasas_trans": 0,
+    "fibra": 0,
+    "sodio": 0   
+    },
+    {
+    "producto_id": 6,
+    "imagen": "prod6.jpg",
+    "imagen_descripcion": "Colageno hidrolizado con vitamina C para la regeneración osea y muscular",
+    "titulo": "Colageno",
+    "peso": "250 gr",
+    "texto": "Es una combinación de colágeno hidrolizado y Vitamina C, que contribuye a su formación. Se reconoce al colágeno como la proteína que forma el tejido conectivo y que da la elasticidad y regeneración de la piel, huesos y articulaciones. De gran utilidad en personas que sufren deterioro de los tejidos bien sea debido a la edad (en general a partir de los 40 años).", 
+    "precio": 1590,
+    "sabor":
+        {
+            "1": "Vainilla",
+            "2": "Frutilla"  
+        },
+    "porcion": 5,
+    "porciones_envase": 60,
+    "valor_energetico": 20,
+    "carbohidratos": 0,
+    "proteinas": 0,
+    "grasas_totales": 0,
+    "grasas_saturadas": 0,
+    "grasas_trans": 0,
+    "fibra": 0,
+    "sodio": 0
+    }  
+]
+

@@ -1,0 +1,30 @@
+[
+    {
+    "tema_id":  1,
+    "titulo": "Somos Calidad",
+    "imagen": "staf.jpg",
+    "imagen_descripcion": "La mejor nutricion para deportistas y amateurs con suplementos NRG",
+    "id_for_boton": "post-1",
+    "parrafo": "Somos una empresa alimenticia dedicada a la elaboración de suplementos nutricionales. Nos encanta lo que hacemos y tenemos 20 años en el mercado haciendo del mundo un lugar mas saludable y feliz. Usamos tecnología de primer nivel y aportamos innovación a cada producto.",
+    "leer_mas": "Hace 10 años incursionamos en la elaboración de suplementos nutricionales, que tienen como finalidad complementar la alimentación y aportar beneficios espefícos para mejorar el rendimiento, la recuperación muscular y el desarrollo físico. No obstante, nos enorgullece poder decir que calidad y precio van de la mano en nuestra variada gama de productos y siempre adaptándose a tus requerimientos alimenticios: vegano, vegetariano, sin gluten para que todo el mundo pueda beneficiarse de ello."
+    },
+    {
+    "tema_id": 2,
+    "titulo": "Somos Ciencia",
+    "imagen": "ciencia.jpg",
+    "imagen_descripcion": "El equipo cientifico de NRG esta compuesto por destacados expertos en los campos de nutricion, ciencia y salud",
+    "id_for_boton": "post-2",
+    "parrafo": "El desarrollo de nuestros productos se realiza junto a un equipo especializado de medicos, nutricionistas e ingenieros alimenticios que, sumado a nuestro conocimiento en sabores y texturas adquiridos a lo largo de estos años, nos permite brindar la más alta calidad en nutrición.",
+    "leer_mas": "Nuestros productos son efectivos junto a un estilo de vida activo y saludable, porque son elaborados con los mejores ingredientes provenientes de diversas partes del mundo, usamos tecnologia de primer nivel y aportamos innovación a cada producto. Nuestros productos están elaborados en las propias instalaciones del grupo, en instalaciones de última generación, ahorrándonos y ahorrándote al mismo tiempo el coste extra de figuras intermediarias, y asegurando la calidad en todo el proceso, con los productos de la mayor pureza."
+    },
+    {
+    "tema_id": 3,
+    "titulo": "Libres de Gluten",
+    "imagen": "gluten.jpg",
+    "imagen_descripcion": "Productos NRG para personas con intolerancia al Gluten. Todos los suplementos son sin TACC especialmente para celiacos",
+    "id_for_boton": "post-3",
+    "parrafo": "Con el aumento de personas con intolerancia al gluten, decidimos desarrollar todos los productos libres de gluten, siguiendo con las normativas vigentes y aprobaciones de la Dirección General de Higiene y Seguridad Alimentaria del Gobierno de la Ciudad de Buenos Aires para su venta.",
+    "leer_mas": "Nuestro objetivo es buscar la más alta calidad a corto, mediano y largo plazo en todas nuestras actividades y de forma sostenida. De la misma forma con nuestros clientes, empleados, proveedores y socios. Por otro lado, nuestros productos aportan múltiples beneficios nutricionales derivados del grano de la quinoa, uno de los alimentos vegetales que provee todos los aminoácidos esenciales. Así tambien aportan vitaminas A, D2, E, B12 y calcio. Además, no contienen sacarosa añadida, ni conservantes, ni lactosa y lo más importante que son libre de gluten."
+    }
+]
+

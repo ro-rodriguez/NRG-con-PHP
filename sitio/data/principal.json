@@ -1,0 +1,46 @@
+[
+    {
+    "imagen": "imagen1.jpg",
+    "imagen_descripcion": "elaboracion del producto en la fabrica",
+    "texto": "Conocé la ciencia detrás de nuestros productos",
+    "url": "index.php?s=nosotros",
+    "boton": "nosotros"
+    },
+    {
+    "imagen": "imagen2.jpg",
+    "imagen_descripcion": "Presentación de la proteina Serious Mass en un gimnasio",
+    "texto": "Conocé nuestros productos y sus beneficios",
+    "url": "index.php?s=productos",
+    "boton": "productos"
+    },
+    {
+    "imagen": "imagen3.jpg",
+    "imagen_descripcion": "Presentación de un combo nutricional",
+    "texto": "Combos personalizados de acuerdo a tu objetivo",
+    "url": "index.php?s=productos#combo",
+    "boton": "combos"
+    },
+    {
+    "imagen": "imagen4.jpg",
+    "imagen_descripcion": "Mujer tomando un batido proteico",
+    "texto": "Conocé resultados de clientes",
+    "url": "index.php?s=testimonios",
+    "boton": "testimonios"
+    },
+    {
+    "imagen": "imagen5.jpg",
+    "imagen_descripcion": "Nutricionista en una consulta nutricional",
+    "texto": "Conocé tu mejor versión con NRG",
+    "url": "#asesoramiento",
+    "boton": "consulta"
+    },
+    {
+    "imagen": "imagen6.jpg",
+    "imagen_descripcion": "Mujer comunicandose a través de la computadora",
+    "texto": "Para conocer más acerca de nuestros productos, ¡contactanos!",
+    "url": "index.php?s=contacto",
+    "boton": "contacto"
+    }
+]
+
+    
